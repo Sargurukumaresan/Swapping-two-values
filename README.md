@@ -30,7 +30,9 @@ print("Swapped values are:",num1,num2)
 ```
 
 ## OUTPUT:
+
 ![output](./swapping%20two%20values.png)
+
 
 
 
